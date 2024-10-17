@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "katekani khosa",
+      "email": "katekani@gmail.com",
+      "phone": "0677913367"
+    },
+    {
+      "email": "katekani@gmail.com",
+      "password": "$2a$10$wYvVh1aS0VvpqW6tyxNw.OlI3U7RY2oVoDNakg7ngcWQcYCazMoJ2",
+      "id": "JU7VSEq"
+    },
+    {
+      "email": "khosa@gmail.com",
+      "password": "$2a$10$u7cLH7w9aLmub7XiWCde0umQKzXhMlmgf75dNKbo/TKeQo8tnJpL.",
+      "id": "hYHJqNC"
+    },
+    {
+      "email": "nompilo@gmail.com",
+      "password": "$2a$10$Ir1ydmtEfd.OqgMWIv5oN.TELWCHhvrT9/StsbTDeavWPGn6rZAFa",
+      "id": "IBCSUIX"
+    }
+  ],
+  "bookings": [
+    {
+      "listingId": "1",
+      "startDate": "2024-10-30",
+      "endDate": "2024-11-03",
+      "userId": "1",
+      "id": "2174"
+    }
+  ],
+  "listings": [
+    {
+      "id": "1",
+      "img": "https://a0.muscache.com/im/pictures/d1061623-322c-439e-9fb2-878b0331ab9c.jpg?im_w=720",
+      "title": "Ponta do Ouro, Mozambique",
+      "description": "8 guests 4 bedrooms 6 beds 4 baths",
+      "price": "R7,661 ZAR/night",
+      "zip": "0826",
+      "address": "344 Nyalalaan",
+      "city": "Giyani",
+      "street": "Nyalalaan",
+      "sq_ft": "4.2",
+      "email": "test@gmail.com",
+      "userId": "2"
+    },
+    {
+      "id": "2",
+      "img": "https://a0.muscache.com/im/pictures/213c8609-eecb-473a-b8d8-b469dd99dbe1.jpg?im_w=720",
+      "title": "Westville, South Africa",
+      "description": "2 guests Studio 1 bed 1.5 baths",
+      "bath_num": "3",
+      "bed_num": "4",
+      "zip": "0826",
+      "address": "344 Nyalalaan",
+      "city": "Giyani",
+      "street": "Nyalalaan",
+      "price": "R990 ZAR/night",
+      "sq_ft": "4.2",
+      "email": "test@gmail.com",
+      "userId": "2"
+    }
+  ]
+}
